@@ -19,6 +19,6 @@ Also building mobile apps with **React Native and Expo**. Solved **150+ LeetCode
 
 ### ✍️ Random Dev Quote
 <div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote" />
 </div>
 
