@@ -1,5 +1,11 @@
 # About Me:
-## Hi, I'm Dipan Roy Choudhury 👋<br><br>I'm a Software Engineer focused on building modern web applications and intelligent systems. I enjoy working across the full stack, from creating intuitive user interfaces to designing backend architectures, APIs, and scalable application systems.<br><br>My primary technologies include **React, Next.js, Node.js, TypeScript, and Python**. I build AI-powered applications using **LLMs, Retrieval-Augmented Generation (RAG), and Agentic AI**, integrating intelligent capabilities into practical software solutions.<br><br>I apply **system design principles** when architecting applications, structuring backend services, designing APIs, and managing data flow to build reliable, maintainable, and scalable systems.<br><br>Alongside web development, I'm expanding my work in **mobile app development using React Native and Expo**.<br><br>I've solved **150+ problems on LeetCode** and continuously strengthen my knowledge of Data Structures & Algorithms, System Design, Cloud Infrastructure, and DevOps.<br><br>I'm always building, experimenting, and exploring better ways to engineer software.
+## Hi, I'm Dipan Roy Choudhury 👋
+
+I'm a Software Engineer building full-stack web applications and AI-powered systems using **React, Next.js, Node.js, TypeScript, and Python**.
+
+I work with **LLMs, RAG, and Agentic AI**, applying system design principles to build scalable backend architectures and reliable applications.
+
+Also building mobile apps with **React Native and Expo**. Solved **150+ LeetCode problems** and continuously exploring Cloud Infrastructure and DevOps.
 
 
 ## 🌐 Socials:
