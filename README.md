@@ -18,6 +18,7 @@ Also building mobile apps with **React Native and Expo**. Solved **150+ LeetCode
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dipan-Roy&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
+</div>
 
