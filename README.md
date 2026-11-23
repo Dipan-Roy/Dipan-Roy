@@ -1,4 +1,3 @@
-# About Me:
 ## Hi, I'm Dipan Roy Choudhury 👋
 
 I'm a Software Engineer building full-stack web applications and AI-powered systems using **React, Next.js, Node.js, TypeScript, and Python**.
